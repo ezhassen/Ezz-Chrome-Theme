@@ -1,0 +1,40 @@
+{
+   "version": "1.0",
+   "name": "Ezz Dark Blue",
+   "description": "Minimalist Dark Theme Blue by Ezz",
+   "manifest_version": 2,
+   "theme": {
+      "colors": {
+         "bookmark_text": [ 220, 220, 220],
+         "frame": [ 30, 30, 30 ],
+         "nt_header": [ 220, 220, 220 ],
+         "ntp_background": [ 30, 30, 30 ],
+         "ntp_link": [ 0, 0, 0 ],
+         "ntp_section": [ 30, 30, 30 ],
+         "ntp_section_link": [ 0, 0, 0 ],
+         "ntp_section_text": [ 0, 0, 0 ],
+         "ntp_text": [ 220, 220, 220 ],
+         "tab_background_text": [ 180, 180, 180 ],
+         "tab_text": [ 220, 220, 220 ],
+         "toolbar": [ 30, 30, 30 ]
+      },
+      "images": {
+         "theme_button_background": "images/theme_button_background.png",
+         "theme_frame": "images/Frame.png",
+         "theme_tab_background": "images/theme_tab_background.png",
+         "theme_toolbar": "images/theme_toolbar.png"
+      },
+      "properties": {
+         "ntp_background_alignment": "top center",
+         "ntp_background_repeat": "no-repeat",
+         "ntp_logo_alternate": 0
+      },
+      "tints": {
+         "background_tab": [ -1, 0.5, 0.75 ],
+         "buttons": [ 0.1, 0.5, 0.85555 ],
+         "frame_inactive": [ -1, -1, 0.75 ],
+         "frame_incognito": [ -1, 0.2, 0.35 ],
+         "frame_incognito_inactive": [ 1, 1, 1 ]
+      }
+   }
+}
