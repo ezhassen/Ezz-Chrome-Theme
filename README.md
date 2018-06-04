@@ -1,6 +1,8 @@
 # Ezz Chrome Theme
 
-Google Chrome Theme
+## Google Chrome Themes
+
+Download from [Releases](https://github.com/ezhassen/Ezz-Chrome-Theme/releases)
 
 ## Dark Yellow
 
