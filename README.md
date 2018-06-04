@@ -4,7 +4,7 @@ Google Chrome Theme
 
 ## Dark Yellow
 
-![imageY](Store%20Images/ImageY.png)
+![ImageY](Store%20Images/imageY.png)
 
 ---
 
