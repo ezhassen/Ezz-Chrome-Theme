@@ -4,10 +4,10 @@ Google Chrome Theme
 
 ## Dark Yellow
 
-![image1](Store%20Images/imageY.png)
+![imageY](Store%20Images/ImageY.png)
 
 ---
 
 ## Dark Blue
 
-![ImageB](Store%20Images/imageB.png)
+![ImageB](Store%20Images/ImageB.png)
